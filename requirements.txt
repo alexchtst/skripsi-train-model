@@ -3,3 +3,5 @@ pandas
 matplotlib
 pympler
 tqdm
+scikit-learn 
+seaborn
