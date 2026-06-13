@@ -1,6 +1,6 @@
 import numpy as np
-from modules.base_model import DeepLearningBaseModel
-from modules.nonlinear_function import PairingFunction
+from models.base_model import DeepLearningBaseModel
+from models.nonlinear_function import PairingFunction
 
 def im2col(
     x: np.ndarray, 

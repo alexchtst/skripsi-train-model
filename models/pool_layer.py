@@ -1,4 +1,4 @@
-from modules.base_model import DeepLearningBaseModel
+from models.base_model import DeepLearningBaseModel
 import numpy as np
 
 SUPPORTED_MODES = {

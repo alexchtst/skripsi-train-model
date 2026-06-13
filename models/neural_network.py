@@ -1,6 +1,6 @@
 import numpy as np
-from modules.base_model import DeepLearningBaseModel
-from modules.nonlinear_function import PairingFunction
+from models.base_model import DeepLearningBaseModel
+from models.nonlinear_function import PairingFunction
 
 # Xavier Uniform (Glorot 2010).
 def xavier_uniform(fan_in: int, fan_out: int) -> np.ndarray:

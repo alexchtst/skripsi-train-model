@@ -1,6 +1,6 @@
 import numpy as np
-from modules.base_model import DeepLearningBaseModel
-from modules.nonlinear_function import SoftmaxFunction
+from models.base_model import DeepLearningBaseModel
+from models.nonlinear_function import SoftmaxFunction
 
 class SoftmaxLayer(DeepLearningBaseModel):
  

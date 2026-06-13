@@ -1,5 +1,5 @@
 import numpy as np
-from modules.base_model import DeepLearningBaseModel
+from models.base_model import DeepLearningBaseModel
 
 class LossFunction:
  
