@@ -1,3 +1,54 @@
 {
-    
+    "verilog_run": {
+        "total_data_each_label": {
+            "label0": 100,
+            "label1": 100,
+            "label2": 100,
+            "label3": 100,
+            "label4": 100,
+            "label5": 100,
+            "label6": 100,
+            "label7": 100,
+            "label8": 100,
+            "label9": 100
+        },
+        "resluts": {
+            "label0": 1.0,
+            "label1": 0.96,
+            "label2": 0.98,
+            "label3": 0.95,
+            "label4": 0.98,
+            "label5": 0.98,
+            "label6": 1.0,
+            "label7": 0.99,
+            "label8": 0.99,
+            "label9": 0.98
+        }
+    },
+    "actual_accuracy": {
+        "total_data_each_label": {
+            "label0": 5923,
+            "label1": 6742,
+            "label2": 5958,
+            "label3": 6131,
+            "label4": 5842,
+            "label5": 5420,
+            "label6": 5918,
+            "label7": 6265,
+            "label8": 5851,
+            "label9": 5949
+        },
+        "resluts": {
+            "label0": 0.98,
+            "label1": 0.98,
+            "label2": 0.97,
+            "label3": 0.97,
+            "label4": 0.97,
+            "label5": 0.97,
+            "label6": 0.98,
+            "label7": 0.97,
+            "label8": 0.98,
+            "label9": 0.97
+        }
+    }
 }
