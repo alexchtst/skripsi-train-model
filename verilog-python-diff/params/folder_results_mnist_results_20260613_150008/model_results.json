@@ -1,0 +1,87 @@
+{
+    "timestamp": "20260613_150008",
+    "trainaccuracy": 0.9800830013833564,
+    "testaccuracy": 0.0,
+    "configuration": [
+        {
+            "name": "conv2d-1",
+            "wparam": "conv2d-1-weights.npz",
+            "bparam": "conv2d-1-bias.npz",
+            "activation": "relu",
+            "bytesize": "992",
+            "forward": true
+        },
+        {
+            "name": "pool-2",
+            "wparam": "pool-2-weights.npz",
+            "bparam": "pool-2-bias.npz",
+            "activation": null,
+            "bytesize": "368",
+            "forward": true
+        },
+        {
+            "name": "conv2d-3",
+            "wparam": "conv2d-3-weights.npz",
+            "bparam": "conv2d-3-bias.npz",
+            "activation": "relu",
+            "bytesize": "9696",
+            "forward": true
+        },
+        {
+            "name": "pool-4",
+            "wparam": "pool-4-weights.npz",
+            "bparam": "pool-4-bias.npz",
+            "activation": null,
+            "bytesize": "368",
+            "forward": true
+        },
+        {
+            "name": "conv2d-5",
+            "wparam": "conv2d-5-weights.npz",
+            "bparam": "conv2d-5-bias.npz",
+            "activation": "relu",
+            "bytesize": "37472",
+            "forward": true
+        },
+        {
+            "name": "pool-6",
+            "wparam": "pool-6-weights.npz",
+            "bparam": "pool-6-bias.npz",
+            "activation": null,
+            "bytesize": "368",
+            "forward": true
+        },
+        {
+            "name": "flatten-7",
+            "wparam": "flatten-7-weights.npz",
+            "bparam": "flatten-7-bias.npz",
+            "activation": null,
+            "bytesize": "368",
+            "forward": true
+        },
+        {
+            "name": "neural-8",
+            "wparam": "neural-8-weights.npz",
+            "bparam": "neural-8-bias.npz",
+            "activation": "relu",
+            "bytesize": "4576",
+            "forward": true
+        },
+        {
+            "name": "neural-9",
+            "wparam": "neural-9-weights.npz",
+            "bparam": "neural-9-bias.npz",
+            "activation": "relu",
+            "bytesize": "1712",
+            "forward": true
+        },
+        {
+            "name": "softmax-10",
+            "wparam": "softmax-10-weights.npz",
+            "bparam": "softmax-10-bias.npz",
+            "activation": null,
+            "bytesize": "368",
+            "forward": true
+        }
+    ]
+}
